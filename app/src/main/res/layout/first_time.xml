@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/back1">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:orientation="vertical"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:srcCompat="@mipmap/tt" />
+
+        <Button
+            android:id="@+id/eng_b_id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:layout_marginTop="20dp"
+            android:allowUndo="false"
+            android:background="@mipmap/lang_b_b"
+            android:capitalize="words"
+            android:elegantTextHeight="false"
+            android:text="Button"
+            android:textColor="@android:color/background_light"
+            android:textColorHighlight="@color/colorAccent"
+            android:textColorHint="@color/colorAccent"
+            android:textSize="45sp" />
+
+        <Button
+            android:id="@+id/fr_b_id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:layout_marginTop="20dp"
+            android:allowUndo="false"
+            android:background="@mipmap/lang_b_b"
+            android:capitalize="words"
+            android:elegantTextHeight="false"
+            android:text="Button"
+            android:textColor="@android:color/background_light"
+            android:textColorHighlight="@color/colorAccent"
+            android:textColorHint="@color/colorAccent"
+            android:textSize="45sp" />
+
+        <Button
+            android:id="@+id/ar_b_id"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="20dp"
+            android:layout_marginTop="20dp"
+            android:allowUndo="false"
+            android:background="@mipmap/lang_b_b"
+            android:capitalize="words"
+            android:elegantTextHeight="false"
+            android:text="Button"
+            android:textColor="@android:color/background_light"
+            android:textColorHighlight="@color/colorAccent"
+            android:textColorHint="@color/colorAccent"
+            android:textSize="45sp" />
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

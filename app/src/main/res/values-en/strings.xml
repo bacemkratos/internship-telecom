@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TT Help Me</string>
+    <string name="c">Welcome</string>
+    <string name="Description" translatable="false">TT Help Me is a mobile application designed for Tunisia Telecom subscribers; it helps them to make a clear and detailed reclamation about their problems (problems of connection, phone, fax, etc....). Also it may reduce the waiting delay as it can help subscribers to solve some problems all alone.</string>
+    <string name="ysername">" User Phone Number "</string>
+    <string name="usernamehint">" Enter Your Phone Number "</string>
+    <string name="password">" Password "</string>
+    <string name="passwordhint">" Enter Your Password "</string>
+    <string name="login">" Log in "</string>
+    <string name="loginerror"> User phone Number or paswword was incorrect </string>
+    <string name="Claimslog">" Claims Log "</string>
+    <string name="myinformation">" Info "</string>
+    <string name="reclamation">" Make a Claim "</string>
+    <string name="choose">Choose A Mode</string>
+    <string name="basic">Basic</string>
+    <string name="basic_mode_desc">this mode is for the majority of users who don\'t have a technical knowledge in telecommunication and elec</string>
+    <string name="advanced_desc">this mode is for  users who  have a  basic technical knowledge in telecommunication and electrical engineering .</string>
+    <string name="advanced">Advanced</string>
+    <string name="Q1">check non-functioning Router leds .</string>
+    <string name="q2">if you have a phone , is there a filter   in the  main wire (Tunisie Telecom wire)?</string>
+    <string name="yes">Yes\n</string>
+    <string name="no">No</string>
+    <string name="q3">Can you describe the internet speed ?</string>
+    <string name="fast">Fast</string>
+    <string name="slow">Slow</string>
+    <string name="average">Average</string>
+    <string name="Null">Null</string>
+    <string name="q4">is the ADSL  wire  ( Rj45)  in a good state ?</string>
+    <string name="q6">Are  you a new subscriber ?</string>
+    <string name="submit">Submit</string>
+    <string name="alertt">you must answer all the questions !\n</string>
+    <string name="psr">preliminary solutions report</string>
+    <string name="newhelp">New users usually have to wait because installing the wires and  configuring the internet  for first time take a while .</string>
+    <string name="inthelp">Usually Internet problem is related to your Internet (Internet Led is not functioning) service provider .</string>
+    <string name="adslhelp">If adsl led is off then the problem is from the phone wire,either from interne installation or externe one.</string>
+    <string name="filtehelp">the filter is absolutely indispensable , you must put a one .</string>
+    <string name="statehe">the bad state of the wire is a cause of 45% of Internet problems , so please try to change it.</string>
+    <string name="slowhelp">the slow internet becomes a problem if it is permanent , otherwise it  is  a temporary problem related to rush hours .</string>
+    <string name="brokehelp">it is likely that your router is down</string>
+    <string name="send">It didn\'t work  ,send the reclamation.</string>
+    <string name="home">Home</string>
+    <string name="View">View\n</string>
+</resources>

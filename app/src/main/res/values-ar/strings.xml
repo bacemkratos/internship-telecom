@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TT Help Me</string>
+    <string name="c">مرحبا</string>
+    <string name="Description">هي تطبيق جوال لمستعملي شبكة اتصالات تونس , تساعدهم على ادراج  شكوى واضحة و دقيقة حول مشاكلهم(مشلكل انترنات,هاتف , فاكس) أيضا يمكن ان تقلص من وقت الانتضار لأنها قد تساعد الحرفاء على حل المشكل بمفردهم\n</string>
+    <string name="ysername">رقم  هاتف المستعمل</string>
+    <string name="usernamehint">أدخل رقم هاتفك</string>
+    <string name="password">كلمه السر</string>
+    <string name="passwordhint">ادخل كلمة السر</string>
+    <string name="login">دخول</string>
+    <string name="loginerror">الرقم او كلمة السر خاطئة</string>
+    <string name="Claimslog">سجل المطالبات</string>
+    <string name="myinformation">معلومات</string>
+    <string name="reclamation">تقديم شكوى</string>
+    <string name="choose">اختر الوضعية</string>
+    <string name="basic">جذري</string>
+    <string name="basic_mode_desc">هذه الوضعية لغالبية المستخدمين الذين ليس لديهم المعرفة التقنية في مجال الاتصالات والهندسة الكهربائية.</string>
+    <string name="advanced_desc">هذه الوضعية للمستخدمين الذين لديهم معرفة تقنية سطحية في مجال الاتصالات والهندسة الكهربائية.</string>
+    <string name="advanced">متقدم</string>
+    <string name="Q1">تحقق من المصابيح الموجه غير العاملة.</string>
+    <string name="q2">إذا كان لديك هاتف، هل هناك مرشح في السلك الرئيسي (سلك  اتصالات تونس)؟</string>
+    <string name="yes">نعم\n</string>
+    <string name="no">لا</string>
+    <string name="q3">هل يمكنك وصف سرعة الانترنت ؟</string>
+    <string name="fast">سريعة</string>
+    <string name="slow">بطيئة</string>
+    <string name="average">متوسطة</string>
+    <string name="Null">منعدمة</string>
+    <string name="q4">"هو سلك أدسل  في حالة جيدة؟ "</string>
+    <string name="q6">هل أنت مشترك جديد؟</string>
+    <string name="submit">قدم</string>
+    <string name="alertt">يجب الإجابة على جميع الأسئلة!</string>
+    <string name="psr">تقرير الحلول الأولية</string>
+    <string name="newhelp">المستخدمون الجدد  يجب عليهم الانتظار قليلا لان تثبيت الاسلاك و ضبط الانترنات لأول  مرة يستغرق بعض الوقت.</string>
+    <string name="inthelp">"عادة ما تتعلق مشكلة الإنترنت بمزود الخدمة الخاص بك (الإنترنت ليد لا يعمل) "</string>
+    <string name="adslhelp">ادا كان صمام الادسل منطفئ فالمشكلة من سلك الهاتف  سواء من التنصيب  الداخلي او الخارجي</string>
+    <string name="filtehelp">مرشح لا غنى عنه على الاطلاق، يجب وضع واحد.</string>
+    <string name="statehe">حالة السلك السيئة   هي سبب 45٪ من مشاكل الإنترنت، لذا يرجى محاولة لتغييره.</string>
+    <string name="slowhelp">يصبح بطء الإنترنت مشكلة إذا كان دائم، وإلا فإنه هو مشكلة مؤقتة تتعلق بساعات الذروة.</string>
+    <string name="brokehelp">من المرجح ان الموجه معطب</string>
+    <string name="send">لم ينجح شيىئ . ارسل  شكوى</string>
+    <string name="home">الصفحة الرئيسية</string>
+    <string name="View">مشاهدة</string>
+</resources>

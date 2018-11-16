@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TT Help Me</string>
+    <string name="c">"Bienvenue "</string>
+    <string name="Description" translatable="false">\"TT Help Me\" est une application mobile destinée aux abonnés de Tunisia Telecom; il les aide à faire une réclamation claire et détaillée sur leurs problèmes (problèmes de connexion, téléphone, fax, etc ....). En outre, cela peut réduire le délai d\'attente car cela peut aider les abonnés à résoudre certains problèmes tout seuls.</string>
+    <string name="ysername">Numéro de téléphone de l\'utilisateur</string>
+    <string name="usernamehint">Entrez votre numéro de téléphone\n</string>
+    <string name="password">Mot de passe</string>
+    <string name="passwordhint">Tapez votre mot de passe</string>
+    <string name="login">S\'identifier</string>
+    <string name="loginerror">Le numéro de téléphone de l\'utilisateur ou le mot de passe était incorrect</string>
+    <string name="Claimslog">Journal des réclamations</string>
+    <string name="myinformation">info</string>
+    <string name="reclamation">Faire une réclamation</string>
+    <string name="choose">Choisissez un mode</string>
+    <string name="basic">Basique</string>
+    <string name="basic_mode_desc">ce mode s\'adresse à la majorité des utilisateurs n\'ayant pas de connaissances techniques en télécommunication et en électrotechnique.</string>
+    <string name="advanced_desc">Ce mode s\'adresse aux utilisateurs ayant des connaissances techniques de base en télécommunication et en électrotechnique.</string>
+    <string name="advanced">Avancée</string>
+    <string name="Q1">Vérifiez les leds du routeur qui ne fonctionnent pas.</string>
+    <string name="q2">si vous avez un téléphone, y a-t-il un filtre dans le fil principal (fil Tunisie Telecom)?</string>
+    <string name="yes">Oui\n</string>
+    <string name="no">Non</string>
+    <string name="q3">Pouvez-vous décrire la vitesse Internet?</string>
+    <string name="fast">Rapide</string>
+    <string name="slow">Lente</string>
+    <string name="average">Moyenne</string>
+    <string name="Null">Nul</string>
+    <string name="q4">le fil ADSL (Rj45) est-il dans un bon état?</string>
+    <string name="q6">êtes-vous un nouvel abonné?</string>
+    <string name="submit">Soumettre</string>
+    <string name="alertt">vous devez répondre à toutes les questions!</string>
+    <string name="psr">rapport de solutions préliminaires</string>
+    <string name="newhelp">Les nouveaux utilisateurs doivent généralement attendre car l\'installation des fils et la configuration de l\'Internet pour la première fois prennent un certain temps.</string>
+    <string name="inthelp">Habituellement, le problème Internet est lié à votre fournisseur de services Internet (Internet Led ne fonctionne pas).</string>
+    <string name="adslhelp">Si le voyant adsl est éteint alors le problème provient du fil téléphonique, soit de l\'installation interne soit de l\'externe.</string>
+    <string name="filtehelp">le filtre est absolument indispensable, il faut en mettre un.</string>
+    <string name="statehe">le mauvais état du fil est une cause de 45% des problèmes d\'Internet, alors essayez de le changer.</string>
+    <string name="slowhelp">l\'Internet lent devient un problème s\'il est permanent, sinon c\'est un problème temporaire lié aux heures de pointe.</string>
+    <string name="brokehelp">il est probable que votre routeur est en panne</string>
+    <string name="send">Cela n\'a pas fonctionné, envoyer la réclamation.</string>
+    <string name="home">Principale</string>
+    <string name="View">Voir</string>
+
+</resources>

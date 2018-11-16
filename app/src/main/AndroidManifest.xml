@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="solofeed.team.tthelpme">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/t_ict"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/t_ict"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+        <activity android:name=".FirstTtime">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".home" />
+        <activity android:name=".MainActivity" />
+        <activity android:name=".Quiz" />
+        <activity android:name=".AdvancedStep1" />
+        <activity android:name=".BasicStep1" />
+        <activity android:name=".BasicStep2" />
+        <activity android:name=".ClaimsLog"></activity>
+    </application>
+
+</manifest>
